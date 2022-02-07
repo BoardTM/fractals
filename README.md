@@ -1,3 +1,3 @@
-# mandelbrot
+# fractals
 
-Just some fairly simple implementations of the mandelbrot set
+Just some fairly simple implementations of different fractals
